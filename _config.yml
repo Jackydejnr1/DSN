@@ -6,11 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Data Analyst and Data Science Enthusiast
+description: Manasseh Jackson is passionate about the applications of mathematics, statistics and computer science in solving real life problems for businesses, government and the general public.
 github_username: Jackydejnr1
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "DSN"
+github_repo: "Data Scientist"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
@@ -39,20 +39,20 @@ baseurl: "/DSN" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
-
+    twitter: Jack4Mane
+    github: Jackydejnr1
+    Linkedin: https://www.linkedin.com/in/manassehjackson/
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: True
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
 show_description: true
 
 # Set this to true to display image previews on home page, if they exist
-show_image: false
+show_image: true
 
 # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
-annotations: false
+annotations: true
 
 # Set this to true to display tags on each post
 show_tags: true
